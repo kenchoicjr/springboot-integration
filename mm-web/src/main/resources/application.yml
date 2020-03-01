@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    name: gzzm
+    url: jdbc:mysql://localhost:3306/gzzm?serverTimezone=UTC
+    username: root
+    password: admin
+    driver-class-name: com.mysql.cj.jdbc.Driver
